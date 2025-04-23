@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program::pubkey::Pubkey;
 
-declare_id!("VoteFeatur3s11111111111111111111111111111111");
+declare_id!("8vMox6rDWEq7jW8rKe8jRfScdtu3jdKzvFfvu9zMDD8s");
 
 #[program]
 pub mod document_voting {
